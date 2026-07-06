@@ -1,6 +1,9 @@
-numpy
-pandas
-scikit-learn
-streamlit
-nltk
-pickle-mixin
+fastapi==0.116.1
+uvicorn[standard]==0.35.0
+numpy==2.3.1
+pandas==2.3.1
+httpx==0.28.1
+pydantic==2.11.7
+python-dotenv==1.1.1
+scikit-learn==1.7.0
+scipy==1.16.0
