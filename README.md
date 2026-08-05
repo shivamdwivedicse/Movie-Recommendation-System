@@ -4,6 +4,8 @@ A Machine Learning based Movie Recommendation System that suggests similar movie
 
 This project demonstrates how recommendation engines used by platforms like Netflix and Amazon work at a basic level.
 
+Try it live :- https://movie-recommendation-system-wsddchynctlc6vl6jvxf2h.streamlit.app/
+
 ---
 
 ## 🚀 Features
